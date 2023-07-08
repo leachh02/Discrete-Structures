@@ -2,17 +2,29 @@
 
 ## Course Outline:
 Foundations (Required Mathematics)
+
 Data Representations
+
 Logic
+
 Sets
+
 Predicate Logic
+
 Relations & Functions
+
 Graphs
+
 Trees
+
 Directed Graphs
+
 Finite State Automata
+
 Linear Algebra
+
 Probability
+
 Program correctness
 
 ## Code:
