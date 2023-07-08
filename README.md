@@ -33,7 +33,7 @@ bork.py - A solution that traverses and outlines a complicated map, inspired by 
 
 problem_solving.py - Two mini projects that incorporate the mathematical topics of Finite State Automata (regex) & Linear Algebra and are implemented via Python.
 
-(supplementary files have been included, including a pdf report for both the project and problem solving solutions)
+(Supplementary files have been included, including a pdf report for both the project and problem-solving solutions. The supplementary code is not my own work but rather the QUT organization's, however, it is required for my files to be run)
 
 ## Tech
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
